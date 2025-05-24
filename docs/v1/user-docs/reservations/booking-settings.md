@@ -49,4 +49,5 @@ Set up automatic email or SMS notifications for booking confirmations, reminders
 
 For more on booking policies, see [Booking Policies]( /v1/user-docs/reservations/policies).
 
+
 ---
