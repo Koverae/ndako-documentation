@@ -47,6 +47,6 @@ Set up automatic email or SMS notifications for booking confirmations, reminders
 3. **Save Changes**  
    Don’t forget to save any changes you make to apply them.
 
-For more on booking policies, see [Booking Policies]( /user-docs/reservations/policies).
+For more on booking policies, see [Booking Policies]( /v1/user-docs/reservations/policies).
 
 ---
